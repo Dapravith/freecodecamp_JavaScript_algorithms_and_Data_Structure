@@ -22,4 +22,9 @@ here you can find the projects i have created to accomplish this learning path a
 * Cash Register: [Code](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/blob/main/Projects/Cash-Register.js) | [Requirements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 </br>
 
+## Certification
+https://www.freecodecamp.org/certification/RothaDapravith/javascript-algorithms-and-data-structures
+
 Made with 💗
+
+Enjoy new learning !!!
